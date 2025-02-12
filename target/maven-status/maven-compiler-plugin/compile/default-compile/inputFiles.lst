@@ -1,0 +1,5 @@
+/home/ot-vio-garcia/Área de trabalho/javinha/desafio-todolist/src/main/java/br/com/otavig/desafio_todolist/DesafioTodolistApplication.java
+/home/ot-vio-garcia/Área de trabalho/javinha/desafio-todolist/src/main/java/br/com/otavig/desafio_todolist/controller/TodoController.java
+/home/ot-vio-garcia/Área de trabalho/javinha/desafio-todolist/src/main/java/br/com/otavig/desafio_todolist/entity/Todo.java
+/home/ot-vio-garcia/Área de trabalho/javinha/desafio-todolist/src/main/java/br/com/otavig/desafio_todolist/repository/TodoRepository.java
+/home/ot-vio-garcia/Área de trabalho/javinha/desafio-todolist/src/main/java/br/com/otavig/desafio_todolist/service/TodoService.java
